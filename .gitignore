@@ -40,7 +40,6 @@ yarn-debug.log*
 yarn-error.log*
 
 # Vue
-/dist/
 /.env.local
 /.env.*.local
 
