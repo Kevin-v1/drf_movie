@@ -53,7 +53,7 @@ venv/
 *.orig
 
 # 前端打包
-frontend/dist/
+
 frontend/node_modules/
 
 # 迁移文件缓存
