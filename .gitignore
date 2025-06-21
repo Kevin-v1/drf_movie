@@ -1,0 +1,76 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.pdb
+*.egg-info/
+.eggs/
+build/
+*.egg
+*.log
+*.pot
+*.mo
+*.po
+*.sqlite3
+*.db
+*.db-journal
+
+# Django
+*.log
+staticfiles/
+media/
+local_settings.py
+.env
+.env.*
+
+# VSCode
+.vscode/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Vue
+/dist/
+/.env.local
+/.env.*.local
+
+# 其他
+venv/
+.idea/
+*.swp
+*.swo
+*.bak
+*.tmp
+*.orig
+
+# 前端打包
+frontend/dist/
+frontend/node_modules/
+
+# 迁移文件缓存
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# 其他系统文件
+Thumbs.db
+Desktop.ini
+
+# Celery
+celerybeat-schedule
+celerybeat.pid
+
+# 本地化文件
+*.mo
+*.pot 
